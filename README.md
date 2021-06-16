@@ -21,10 +21,25 @@
 <p>Pacotes criados: data, service, security*</p>
 
  
-### Model view-controller
+### Criando Modelo view-controller
+<p>Neste ponto foi criado testes de autenticacao do usuario e desenvolvi codigo de login. Ao final deste processo, foi utilizado o Postman para realizar testes.</p>
 <p>Pacotes criados: controller, security.</p>
 
-<p><br/>
+## Spring Boot Azure 
+<p>Criar conta - 30 dias grátias com 930 reais</p>
+<p>Ir para o portal da Azure -> Azure Active Directory</p>
+<p>Create tenant - nome do projeto, description OBS: Guardar as chaves</p>
+<p>Criar Secret key e Permissoes da API(nesse caso Directory -> Directory.AccessasUser.All)</p>
+<p>Criar conta - 30 dias grátias com 930 reais</p>
+
+
+
+criar directory - criar aplicacao - criar permissoes - criar segredos - criar usuarios - criar grupos - adicionar usuarios no grupo -
+
+
+
+
+
 
 
 
